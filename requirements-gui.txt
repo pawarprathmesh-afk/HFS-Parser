@@ -1,0 +1,1 @@
+PyQt5>=5.15   # only needed for the GUI (gui_main.py); the parser itself uses the standard library

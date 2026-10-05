@@ -1,0 +1,25 @@
+# disk images / evidence: large, and may contain private data
+*.dmg
+*.sparseimage
+*.sparsebundle
+*.img
+*.raw
+*.dd
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# superseded copies kept locally
+files/
+files.zip
+
+# extraction / test output
+hfsplus_output/
